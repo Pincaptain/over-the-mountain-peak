@@ -1,0 +1,16 @@
+c:\users\akatosh\documents\visual studio 2017\Projects\Over The Mountains Peak\bin\Debug\Over The Mountains Peak.exe.config
+c:\users\akatosh\documents\visual studio 2017\Projects\Over The Mountains Peak\bin\Debug\Over The Mountains Peak.exe
+c:\users\akatosh\documents\visual studio 2017\Projects\Over The Mountains Peak\bin\Debug\Over The Mountains Peak.pdb
+c:\users\akatosh\documents\visual studio 2017\Projects\Over The Mountains Peak\obj\Debug\Over The Mountains Peak.csprojResolveAssemblyReference.cache
+c:\users\akatosh\documents\visual studio 2017\Projects\Over The Mountains Peak\obj\Debug\Over_The_Mountains_Peak.BaseForm.resources
+c:\users\akatosh\documents\visual studio 2017\Projects\Over The Mountains Peak\obj\Debug\Over_The_Mountains_Peak.Properties.Resources.resources
+c:\users\akatosh\documents\visual studio 2017\Projects\Over The Mountains Peak\obj\Debug\Over The Mountains Peak.csproj.GenerateResource.Cache
+c:\users\akatosh\documents\visual studio 2017\Projects\Over The Mountains Peak\obj\Debug\Over The Mountains Peak.exe
+c:\users\akatosh\documents\visual studio 2017\Projects\Over The Mountains Peak\obj\Debug\Over The Mountains Peak.pdb
+C:\Users\Akatosh\documents\visual studio 2017\Projects\Over The Mountains Peak\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Akatosh\documents\visual studio 2017\Projects\Over The Mountains Peak\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Akatosh\documents\visual studio 2017\Projects\Over The Mountains Peak\bin\Debug\Interop.WMPLib.dll
+C:\Users\Akatosh\documents\visual studio 2017\Projects\Over The Mountains Peak\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Akatosh\documents\visual studio 2017\Projects\Over The Mountains Peak\obj\Debug\Interop.WMPLib.dll
+C:\Users\Akatosh\documents\visual studio 2017\Projects\Over The Mountains Peak\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Akatosh\documents\visual studio 2017\Projects\Over The Mountains Peak\obj\Debug\Over The Mountains Peak.csproj.ResolveComReference.cache
